@@ -2,7 +2,7 @@
 A Quake multiplayer map that supports 8-10 players. It's a deathmatch inside these strange ruins that holds many secrets. 
 
 [Preproduction](https://github.com/CobaltJCode/hollow-ruins/blob/main/preproduction.md)
-[Blockout]
+[Blockout](https://github.com/CobaltJCode/hollow-ruins/blob/main/blockout.md)
 [Texturing]
 [Lightning]
 
